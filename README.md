@@ -1,4 +1,4 @@
-!{logo]("https://github.com/ankityadav14/ankityadav14/blob/master/Screenshot%20(21).png")
+!{logo](https://github.com/ankityadav14/ankityadav14/blob/master/Screenshot%20(21).png)
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I think I'm Funny**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/g.dev/ankittt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/ankittt" height="30" width="40" /></a>
 <a href="https://twitter.com/ankitkrofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkrofficial" height="30" width="40" /></a>
