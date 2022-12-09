@@ -1,7 +1,7 @@
 ![logo](https://github.com/ankityadav14/ankityadav14/blob/master/Screenshot%20(21).png)
 <h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="500" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif)" >
+<img align="right" alt="coding" width="500" src="[https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankityadav14&label=Profile%20views&color=0e75b6&style=flat" alt="ankityadav14" /> </p>
 
