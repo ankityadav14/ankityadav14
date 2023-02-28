@@ -1,35 +1,24 @@
-![logo](https://github.com/ankityadav14/ankityadav14/blob/master/Screenshot%20(21).png)
-<h1 align="center">Hi 👋, I'm Ankit Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="380" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankityadav14&label=Profile%20views&color=0e75b6&style=flat" alt="ankityadav14" /> </p>
-
-- 🔭 I’m currently working on [Portfolio Website](ay14179027994.wordpress.com)
-
-- 🌱 I’m currently learning **C, Full Stack Development**
-
-- 👨‍💻 All of my projects are available at [https://linktr.ee/an14](https://linktr.ee/an14)
-
-- 📝 I regularly write articles on [https://ankitkrofficial.blogspot.com/](https://ankitkrofficial.blogspot.com/)
-
-- 📫 How to reach me **ay2000ankit@gmail.com**
-
-- ⚡ Fun fact **I think I'm Funny**
+# 💫 About Me:
+🔭 I’m currently working on [Portfolio Website](ay14179027994.wordpress.com)<br><br>🌱 I’m currently learning **C, Java, Full Stack Development**<br><br>👨‍💻 All of my projects are available at [https://linktr.ee/an14](https://linktr.ee/an14)<br><br>📝 I regularly write articles on [https://ankitkrofficial.blogspot.com/](https://ankitkrofficial.blogspot.com/)<br><br>📫 How to reach me **ay2000ankit@gmail.com**<br><br>⚡ Fun fact **I think I'm Funny**
 
 
-<p align="left">
-<a href="https://dev.to/g.dev/ankittt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/ankittt" height="30" width="40" /></a>
-<a href="https://twitter.com/ankitkrofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkrofficial" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-yadav-75721a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-yadav-75721a215" height="30" width="40" /></a>
-<a href="https://instagram.com/ankittt14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankittt14_" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100008014989890) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankittt14_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-yadav-75721a215) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AnkitkrOfficial) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=plastic&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankityadav14&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankityadav14&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankityadav14&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankityadav14&show_icons=true&locale=en&layout=compact" alt="ankityadav14" /></p>
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ankittt14) 
+  
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=AnkitkrOfficial)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankityadav14&show_icons=true&locale=en" alt="ankityadav14" /></p>
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankityadav14&" alt="ankityadav14" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
