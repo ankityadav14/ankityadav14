@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Portfolio Website](ay14179027994.wordpress.com)<br><br>🌱 I’m currently learning **C, Java, Full Stack Development**<br><br>👨‍💻 All of my projects are available at [https://linktr.ee/an14](https://linktr.ee/an14)<br><br>📝 I regularly write articles on [https://ankitkrofficial.blogspot.com/](https://ankitkrofficial.blogspot.com/)<br><br>📫 How to reach me **ay2000ankit@gmail.com**<br><br>⚡ Fun fact **I think I'm Funny**
+🔭 I’m currently working on [Portfolio Website](ay14179027994.wordpress.com)<br><br>🌱 I’m currently learning **C, Java, Full Stack Development**<br><br>👨‍💻 All of my projects are available at [https://linktr.ee/an14](https://linktr.ee/an14)<br><br>📝 I regularly write articles on [https://geeksinfotalk.blogspot.com/](https://ankitkrofficial.blogspot.com/)<br><br>📫 How to reach me **ay2000ankit@gmail.com**<br><br>⚡ Fun fact **I think I'm Funny**
 
 
 ## 🌐 Socials:
